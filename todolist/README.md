@@ -26,7 +26,7 @@ A simple task management web app to add, edit, complete, and delete tasks — bu
 
 ![App Screenshot](screenshots/add.png)
 ![App Screenshot](screenshots/edit.png)
-![App Screenshot](screenshots/add another.png)
+![App Screenshot](screenshots/add-another.png)
 ![App Screenshot](screenshots/delete.png)
 ```bash
 git clone https://github.com/your-username/task-manager.git
