@@ -1,11 +1,16 @@
 body {
   font-family: Arial, sans-serif;
-  padding: 2rem;
   background: #f0f0f0;
+  height: 100vh;                  /* Full viewport height */
+  width: 90%;
+  margin: 0;
+  display: flex;                 /* Enable Flexbox */
+  justify-content: center;      /* Center horizontally */
+  /* align-items: center;          Center vertically */
 }
-
 h1 {
   color: #333;
+  text-align: center;
 }
 
 input, button {
@@ -59,6 +64,6 @@ li.completed span {
 }
 
 .modal input {
-  width: 100%;
+  width: 90%;
   margin-bottom: 1rem;
 }
