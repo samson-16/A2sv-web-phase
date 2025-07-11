@@ -23,13 +23,11 @@ A simple task management web app to add, edit, complete, and delete tasks — bu
 2. Open `index.html` in your browser.
 
 
-![App Screenshot](todolist\screenshots\Screenshot 2025-07-11 170106.png)
-![App Screenshot](todolist\screenshots\Screenshot 2025-07-11 170051.png)
-![App Screenshot](todolist\screenshots\Screenshot 2025-07-11 170035.png)
-![App Screenshot](todolist\screenshots\Screenshot 2025-07-11 170017.png)
-likes this??
 
 ![App Screenshot](screenshots/add.png)
+![App Screenshot](screenshots/edit.png)
+![App Screenshot](screenshots/add another.png)
+![App Screenshot](screenshots/delete.png)
 ```bash
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
