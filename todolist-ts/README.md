@@ -60,4 +60,4 @@ removeTodo(list, id) - Removes task by ID
 displayTodos(list) - Shows current 
 
 
-![App Screenshot](screenshots/image.png)
+![App Screenshot](/src/screenshots/image.png)
