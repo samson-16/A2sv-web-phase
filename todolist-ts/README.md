@@ -6,7 +6,7 @@ A simple command-line to-do list manager built with TypeScript, featuring immuta
 
 ✅ Add, remove, and display tasks
 
-
+![App Screenshot](/src/screenshots/image.png)
 ## Installation
 
 1. Clone the repository:
@@ -60,4 +60,3 @@ removeTodo(list, id) - Removes task by ID
 displayTodos(list) - Shows current 
 
 
-![App Screenshot](/src/screenshots/image.png)
