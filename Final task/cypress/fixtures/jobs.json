@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "job-1",
+      "title": "Test Job",
+      "description": "This is a test job description.",
+      "orgName": "Test Corp",
+      "location": ["Remote"],
+      "logoUrl": "",
+      "categories": ["Engineering"],
+      "opType": "inPerson",
+      "isBookmarked": false
+    }
+  ]
+}
